@@ -1,0 +1,7 @@
+.ant-list-item.none {
+  display: none;
+}
+
+.ant-list-item.block {
+  display: block;
+}

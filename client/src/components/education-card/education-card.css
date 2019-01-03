@@ -1,0 +1,11 @@
+.ant-list-item.none {
+  display: none;
+}
+
+.ant-list-item.block {
+  display: block;
+}
+
+.title-p {
+  margin-bottom: 0px;
+}
